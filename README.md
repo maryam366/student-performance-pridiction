@@ -1,1 +1,1 @@
-# house-price-pridiction
+# student-performance-pridiction
