@@ -113,7 +113,7 @@ Three classifiers trained using Scikit-learn Pipelines with **StandardScaler** p
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/student-performance-prediction.git
+git clone https://github.com/maryam366/student-performance-prediction.git
 cd student-performance-prediction
 ```
 
