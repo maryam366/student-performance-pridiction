@@ -136,7 +136,8 @@ python src/train_evaluate.py
 ```bash
 python src/predict.py
 ```
-
+### 6.Run app
+https://student-performance-pridiction-d66wtbjm9tchwepfa6sp69.streamlit.app/
 ---
 
 ## 💡 Key Learnings
